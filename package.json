@@ -1,0 +1,12 @@
+{
+  "name": "zffh3x--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@bryntum/demo-resources": "1.1.0",
+    "@bryntum/grid": "npm:@bryntum/grid-trial@5.0.5",
+    "@bryntum/grid-vue": "5.0.5",
+    "date-fns": "~2.12.0",
+    "vue": "~2.6.11"
+  }
+}
